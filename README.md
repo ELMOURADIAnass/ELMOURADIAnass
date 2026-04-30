@@ -13,12 +13,53 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff20,100:0057ff20&height=2&section=header" width="100%"/>
+
+## 🧑‍💻 About Me
+
 <div align="center">
 
-🧑‍💻 ABOUT ME
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<br/> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> EL MOURADI ANASS<br/> Web & Mobile Developer<br/> Morocco 🇲🇦 </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Mobile Apps Flutter<br/> Web Interfaces Modern<br/> Clean Architecture </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Learning Now<br/> Flutter Advanced<br/> Dart Deep Study<br/> Scalable Architecture </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Workflow<br/> Idea → Prototype → Test → Fix → Improve </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Contact<br/> elmouradianass@gmail.com </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Motto<br/> Build. Break. Learn. Repeat. </div> </div>
+### 👤 Who Am I?
 
+> 🌍 &nbsp; Based in **Morocco 🇲🇦**
+>
+> 💼 &nbsp; **Web & Mobile Developer**
+>
+> 📧 &nbsp; [elmouradianass@gmail.com](mailto:elmouradianass@gmail.com)
+>
+> 📸 &nbsp; [@anass_elmouradi](https://instagram.com/anass_elmouradi)
+>
+> 🐙 &nbsp; [ANASS EL MOURADI](https://github.com/Aymane-cyber)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 💡 What Drives Me?
+
+```
+🔨  Building modern web apps
+📱  Crafting smooth mobile UIs
+🧠  Solving real-world problems
+📚  Learning every single day
+🌙  Late night coding sessions
+🚀  Turning ideas into reality
+```
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+> *" The best way to predict the future is to build it. "*
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **EL MOURADI ANASS** 🇲🇦
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
