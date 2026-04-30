@@ -13,25 +13,12 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff20,100:0057ff20&height=2&section=header" width="100%"/>
+<div align="center">
 
-## 🧑‍💻 About Me
+🧑‍💻 ABOUT ME
 
-```dart
-class Developer {
-  final String name    = "EL MOURADI ANASS";
-  final String role    = "Web & Mobile Developer";
-  final String country = "Morocco 🇲🇦";
-  final String email   = "elmouradianass@gmail.com";
+<br/> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> EL MOURADI ANASS<br/> Web & Mobile Developer<br/> Morocco 🇲🇦 </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Mobile Apps Flutter<br/> Web Interfaces Modern<br/> Clean Architecture </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Learning Now<br/> Flutter Advanced<br/> Dart Deep Study<br/> Scalable Architecture </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Workflow<br/> Idea → Prototype → Test → Fix → Improve </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Contact<br/> elmouradianass@gmail.com </div> <div style="display:inline-block; padding:14px 18px; margin:8px; border-radius:12px; background:#0d1117; color:#c9d1d9;"> Motto<br/> Build. Break. Learn. Repeat. </div> </div>
 
-  final List<String> currentlyLearning = [
-    "Flutter", "Dart", "Mobile App Architecture"
-  ];
-
-  final String motto = "Build. Break. Learn. Repeat. 🚀";
-}
-```
-
----
 
 ## 🛠️ Tech Stack
 
