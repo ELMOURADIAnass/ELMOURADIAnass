@@ -32,7 +32,7 @@
 >
 > 📸 &nbsp; [@anass_elmouradi](https://instagram.com/anass_elmouradi)
 >
-> 🐙 &nbsp; [ANASS EL MOURADI](https://github.com/Aymane-cyber)
+> 🐙 &nbsp; [ANASS EL MOURADI](https://github.com/elmouradianass)
 
   </td>
     <td width="50%" valign="top">
