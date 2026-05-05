@@ -1,8 +1,8 @@
 <div align="center">
 
-/*<img src="https://visitor-badge.laobi.icu/badge?page_id=Aymane-cyber.Aymane-cyber" align="right" />*/
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Aymane-cyber.Aymane-cyber" align="right" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0057ff&height=200&section=header&text=EL%20MOURADI%20ANASS&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=60&descSize=18&animation=fadeIn" />
+
 
 <br/>
 
